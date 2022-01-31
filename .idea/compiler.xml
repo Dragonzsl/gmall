@@ -10,6 +10,7 @@
         <module name="gulimall-coupon" />
         <module name="gulimall-auth" />
         <module name="gulimall-cart" />
+        <module name="gulimall-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +19,7 @@
       <module name="gulimall-cart" target="1.8" />
       <module name="gulimall-common" target="1.5" />
       <module name="gulimall-coupon" target="1.8" />
+      <module name="gulimall-gateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +27,7 @@
       <module name="gulimall-auth" options="-parameters" />
       <module name="gulimall-cart" options="-parameters" />
       <module name="gulimall-coupon" options="-parameters" />
+      <module name="gulimall-gateway" options="-parameters" />
     </option>
   </component>
 </project>
