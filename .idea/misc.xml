@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/gulimall-common/pom.xml" />
         <option value="$PROJECT_DIR$/gulimall-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/gulimall-member/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-order/pom.xml" />
       </list>
     </option>
   </component>
